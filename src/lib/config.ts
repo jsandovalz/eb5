@@ -17,6 +17,11 @@ export const siteConfig = {
     name: "InvestAmerica",
     legalName:
       "InvestAmerica offers securities through Sequence Financial Specialists LLC, member FINRA/SIPC, dba InvestAmerica. InvestAmerica LLC is a subsidiary of Sequence Holdings LLC.",
+    website: "",
+    phone: "",
+    email: "",
+    address: "",
+    finraBrokerCheck: "",
   },
   contact: {
     // TODO: replace with the referral desk's own contact details.
