@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "title": "EB5 Pathway | Green Card dos EUA Através de Investimento (Visto EB-5)",
+    "description": "Descubra como o Programa de Investidores Imigrantes EB-5 pode conceder a você e sua família o Green Card dos Estados Unidos. Consulta gratuita com um consultor EB-5 licenciado da InvestAmerica."
+  },
+  "nav": {
+    "benefits": "Benefícios",
+    "investment": "Investimento",
+    "process": "Processo",
+    "faq": "Perguntas",
+    "contact": "Contato",
+    "cta": "Consulta Gratuita"
+  },
+  "hero": {
+    "eyebrow": "Programa de Investidores Imigrantes EB-5",
+    "title": "O Green Card para você e sua família, através de um investimento seguro",
+    "highlight": "Green Card",
+    "subtitle": "Conectamos investidores qualificados à InvestAmerica, uma corretora EB-5 licenciada com um histórico sólido de due diligence e de aprovação de projetos relatado por seus clientes. Receba orientação honesta e sem compromisso sobre se o EB-5 é adequado para você.",
+    "ctaPrimary": "Falar com um Consultor",
+    "ctaSecondary": "Ver Como Funciona",
+    "stat1Value": "US$ 800K+",
+    "stat1Label": "Investimento mínimo qualificado (TEA)",
+    "stat2Value": "10",
+    "stat2Label": "Empregos nos EUA que seu investimento deve criar",
+    "stat3Value": "1",
+    "stat3Label": "Solicitação que pode cobrir toda a sua família",
+    "disclaimer": "O EB-5 é um programa de investimento migratório dos Estados Unidos. Todo investimento envolve risco, incluindo possível perda do capital e possível negação da imigração. Este site fornece informações educativas e encaminha investidores interessados a uma corretora licenciada; não constitui aconselhamento jurídico ou de investimento."
+  },
+  "benefits": {
+    "title": "Por que as famílias escolhem o caminho EB-5",
+    "subtitle": "Um Green Card abre portas que vão muito além do investimento em si.",
+    "items": [
+      {
+        "title": "Residência permanente para toda a sua família",
+        "description": "Um único investimento EB-5 pode cobrir você, seu cônjuge e filhos solteiros menores de 21 anos — todos obtendo a residência permanente legal juntos."
+      },
+      {
+        "title": "Viva, trabalhe e estude em qualquer lugar dos EUA",
+        "description": "Sem patrocínio de empregador, sem necessidade de oferta de emprego. Titulares de Green Card podem trabalhar para qualquer empregador, abrir um negócio ou trabalhar por conta própria em qualquer lugar do país."
+      },
+      {
+        "title": "Educação de primeira linha para seus filhos",
+        "description": "Titulares de Green Card têm direito a mensalidades estaduais reduzidas e acesso a escolas públicas e universidades dos EUA nas mesmas condições que os cidadãos."
+      },
+      {
+        "title": "Um caminho para a cidadania americana",
+        "description": "Após cinco anos com o Green Card, investidores e suas famílias podem se tornar elegíveis para solicitar a cidadania americana."
+      }
+    ]
+  },
+  "investment": {
+    "title": "Um investimento regulado e focado em segurança",
+    "subtitle": "O EB-5 é um investimento de capital real em projetos que geram empregos nos EUA — não é uma doação nem uma taxa. É avaliado sob a lei de valores mobiliários e de imigração dos Estados Unidos.",
+    "amountsTitle": "Valores mínimos de investimento",
+    "tea": "US$ 800.000",
+    "teaLabel": "Área de Emprego Direcionado (zona rural ou de alto desemprego)",
+    "nonTea": "US$ 1.050.000",
+    "nonTeaLabel": "Área padrão (fora de um TEA)",
+    "jobsNote": "Todo investimento EB-5 deve criar pelo menos 10 empregos em tempo integral para trabalhadores nos EUA dentro do prazo exigido — isso é verificado pelo USCIS antes da aprovação do Green Card.",
+    "items": [
+      {
+        "title": "Supervisão de corretora licenciada",
+        "description": "A InvestAmerica oferece valores mobiliários através da Sequence Financial Specialists LLC, membro da FINRA/SIPC. Cada recomendação passa por um representante registrado sujeito à regulamentação de valores mobiliários."
+      },
+      {
+        "title": "Due diligence rigorosa dos projetos",
+        "description": "Cada oportunidade de investimento é avaliada em mais de 40 fatores — projeções financeiras, histórico do patrocinador, verificação de antecedentes e risco migratório — antes de ser oferecida aos investidores."
+      },
+      {
+        "title": "Aconselhamento objetivo e independente",
+        "description": "Os consultores são remunerados para representar seus interesses, não para promover um único projeto. Você analisa várias oportunidades avaliadas antes de decidir."
+      }
+    ]
+  },
+  "process": {
+    "title": "Como funciona o processo",
+    "subtitle": "Da primeira conversa até a apresentação do processo, veja como é a jornada típica.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Chamada introdutória gratuita",
+        "description": "Conte-nos sobre seus objetivos e histórico. Respondemos suas perguntas e explicamos honestamente se o EB-5 se encaixa na sua situação."
+      },
+      {
+        "step": "02",
+        "title": "Revisão das opções de investimento",
+        "description": "A InvestAmerica apresenta projetos avaliados e com due diligence que correspondem ao seu valor de investimento, setor de interesse e prazos."
+      },
+      {
+        "step": "03",
+        "title": "Origem dos fundos e subscrição",
+        "description": "Com orientação de profissionais de imigração e de valores mobiliários, você documenta a origem dos seus fundos e completa a documentação de subscrição."
+      },
+      {
+        "step": "04",
+        "title": "Apresentação da petição I-526E",
+        "description": "Seu advogado de imigração apresenta a petição ao USCIS, respaldada pelo plano de negócios do projeto e pelas evidências de criação de empregos."
+      },
+      {
+        "step": "05",
+        "title": "Residência condicional e depois permanente",
+        "description": "Uma vez aprovado, você e sua família obtêm o Green Card condicional, seguido pela residência permanente após a confirmação dos requisitos de criação de empregos do investimento."
+      }
+    ]
+  },
+  "trust": {
+    "title": "Por que fazer isso através da InvestAmerica",
+    "subtitle": "Uma plataforma especializada e regulada por valores mobiliários, criada especificamente para investidores EB-5.",
+    "points": [
+      "Equipe de representantes registrados e licenciados com ampla experiência em EB-5 e colocações privadas",
+      "Plataforma diversificada de oportunidades de investimento direto em imóveis, hotelaria e infraestrutura",
+      "Desempenho consistente em um cenário regulatório EB-5 historicamente volátil",
+      "Aconselhamento alinhado com os seus melhores interesses, não impulsionado pelas metas de vendas de um único projeto"
+    ]
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "subtitle": "Não encontrou sua resposta? Pergunte ao nosso assistente de chat no canto da tela ou fale diretamente com um consultor.",
+    "items": [
+      {
+        "q": "O que é o Programa de Investidores Imigrantes EB-5?",
+        "a": "O EB-5 é uma categoria de imigração dos Estados Unidos criada pelo Congresso que concede residência permanente (Green Card) a investidores estrangeiros que fazem um investimento qualificado em um negócio americano que cria pelo menos 10 empregos em tempo integral para trabalhadores nos EUA."
+      },
+      {
+        "q": "Quanto preciso investir?",
+        "a": "O mínimo é de US$ 800.000 se o projeto estiver localizado em uma Área de Emprego Direcionado (zona rural ou de alto desemprego), ou US$ 1.050.000 para projetos fora de um TEA. A maioria dos projetos de centros regionais EB-5 é estruturada para se qualificar no nível de US$ 800.000."
+      },
+      {
+        "q": "O investimento cobre meu cônjuge e filhos?",
+        "a": "Sim. Um único investimento e petição qualificados podem incluir seu cônjuge e filhos solteiros menores de 21 anos no momento da apresentação do pedido."
+      },
+      {
+        "q": "Meu investimento é garantido?",
+        "a": "Não. Como qualquer investimento em valores mobiliários, o capital do EB-5 está em risco, incluindo possível perda do principal, e não há garantia de retorno do investimento nem de aprovação da imigração. É exatamente por isso que a due diligence e trabalhar com uma corretora licenciada são tão importantes."
+      },
+      {
+        "q": "Quanto tempo leva o processo?",
+        "a": "Os prazos variam de acordo com o volume de processamento do USCIS e seu país de nascimento, mas os investidores geralmente obtêm a residência permanente condicional entre aproximadamente 2 e 4 anos após a apresentação, com alguns casos mais rápidos ou mais lentos dependendo da categoria de visto."
+      },
+      {
+        "q": "Preciso morar nos EUA para investir?",
+        "a": "Não. Você pode iniciar o processo EB-5, incluindo fazer o investimento e apresentar sua petição, enquanto mora fora dos Estados Unidos. A presença física geralmente se torna relevante quando você entra com o visto de imigrante ou ajusta seu status."
+      },
+      {
+        "q": "O que é uma Área de Emprego Direcionado (TEA)?",
+        "a": "Um TEA é uma área rural ou uma área com desemprego de pelo menos 150% da média nacional. Projetos localizados em um TEA se qualificam para o limite de investimento mais baixo de US$ 800.000."
+      },
+      {
+        "q": "O que a InvestAmerica realmente faz por mim?",
+        "a": "A InvestAmerica é uma plataforma de corretora licenciada (através da Sequence Financial Specialists LLC, membro da FINRA/SIPC) que avalia projetos EB-5, oferece orientação de investimento objetiva e trabalha junto ao seu advogado de imigração durante todo o processo. Este site encaminha investidores interessados à equipe deles para uma consulta gratuita e sem compromisso."
+      }
+    ]
+  },
+  "leadForm": {
+    "title": "Solicite sua consulta gratuita",
+    "subtitle": "Compartilhe alguns dados e um consultor EB-5 licenciado da InvestAmerica entrará em contato — sem custo, sem compromisso.",
+    "name": "Nome completo",
+    "email": "Endereço de e-mail",
+    "phone": "Telefone (com código do país)",
+    "country": "País de residência",
+    "investmentRange": "Capital de investimento disponível",
+    "investmentRangePlaceholder": "Selecione uma faixa",
+    "rangeOptions": [
+      "Menos de US$ 800.000",
+      "US$ 800.000 – US$ 1.050.000",
+      "US$ 1.050.000 – US$ 2.000.000",
+      "Mais de US$ 2.000.000",
+      "Só estou explorando opções"
+    ],
+    "message": "Algo mais que gostaria de nos contar? (opcional)",
+    "consent": "Concordo em ser contatado pela InvestAmerica e seu parceiro de indicação sobre oportunidades de investimento EB-5. Entendo que isso não é aconselhamento jurídico nem de investimento.",
+    "submit": "Solicitar consulta",
+    "submitting": "Enviando…",
+    "success": "Obrigado! Sua solicitação foi enviada. Um consultor entrará em contato em até 1–2 dias úteis.",
+    "error": "Ocorreu um erro ao enviar sua solicitação. Tente novamente ou envie um e-mail diretamente."
+  },
+  "footer": {
+    "about": "A EB5 Pathway é um site informativo independente que ajuda futuros investidores a entender o Programa de Investidores Imigrantes EB-5 e os conecta à InvestAmerica, uma plataforma de corretora EB-5 licenciada, para uma consulta gratuita.",
+    "disclaimer": "Este site não oferece aconselhamento jurídico, tributário ou de investimento, e não é uma corretora nem um consultor de investimentos. Valores mobiliários, quando oferecidos, são oferecidos através da Sequence Financial Specialists LLC, membro da FINRA/SIPC, dba InvestAmerica. Todo investimento envolve risco, incluindo possível perda do capital. Os resultados de imigração são determinados exclusivamente pelo Serviço de Cidadania e Imigração dos EUA (USCIS) e não são garantidos.",
+    "rights": "Todos os direitos reservados.",
+    "quickLinks": "Links rápidos",
+    "partner": "Parceiro de indicação",
+    "brokerCheck": "Consulte o histórico da corretora no FINRA BrokerCheck"
+  },
+  "chat": {
+    "bubbleLabel": "Converse conosco",
+    "title": "Assistente EB-5",
+    "subtitle": "Faça uma pergunta ou conecte-se com um consultor ao vivo",
+    "placeholder": "Digite sua pergunta…",
+    "send": "Enviar",
+    "whatsapp": "Converse com um consultor pelo WhatsApp",
+    "disclaimer": "As respostas automáticas são apenas informações gerais e não constituem aconselhamento jurídico ou de investimento.",
+    "greeting": "Olá! Posso responder perguntas gerais sobre o programa EB-5 e a InvestAmerica. O que você gostaria de saber?",
+    "errorMessage": "Desculpe, não consegui processar sua mensagem agora. Tente novamente ou fale com um consultor ao vivo pelo WhatsApp."
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "title": "EB5 Pathway | U.S. Green Card Through Investment (EB-5 Visa)",
+    "description": "Learn how the EB-5 Immigrant Investor Program can get you and your family a U.S. Green Card. Free consultation with a licensed EB-5 advisor at InvestAmerica."
+  },
+  "nav": {
+    "benefits": "Benefits",
+    "investment": "Investment",
+    "process": "Process",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "cta": "Free Consultation"
+  },
+  "hero": {
+    "eyebrow": "EB-5 Immigrant Investor Program",
+    "title": "A U.S. Green Card for you and your family, through a secure investment",
+    "highlight": "Green Card",
+    "subtitle": "We connect qualified investors with InvestAmerica, a licensed EB-5 broker-dealer with a track record of due diligence and a strong project approval history reported by its clients. Get honest, no-obligation guidance on whether EB-5 is right for you.",
+    "ctaPrimary": "Talk to an Advisor",
+    "ctaSecondary": "See How It Works",
+    "stat1Value": "$800K+",
+    "stat1Label": "Minimum qualifying investment (TEA)",
+    "stat2Value": "10",
+    "stat2Label": "U.S. jobs your investment must create",
+    "stat3Value": "1",
+    "stat3Label": "Application that can cover your whole family",
+    "disclaimer": "EB-5 is a U.S. immigration investment program. All investments carry risk, including possible loss of principal and immigration denial. This site provides educational information and refers interested investors to a licensed broker-dealer; it does not provide legal or investment advice."
+  },
+  "benefits": {
+    "title": "Why families choose the EB-5 path",
+    "subtitle": "A U.S. Green Card opens doors that go far beyond the investment itself.",
+    "items": [
+      {
+        "title": "Permanent residency for your whole family",
+        "description": "A single EB-5 investment can cover you, your spouse, and unmarried children under 21 — all obtaining lawful permanent residence together."
+      },
+      {
+        "title": "Live, work and study anywhere in the U.S.",
+        "description": "No employer sponsorship, no job offer required. Green Card holders can work for any employer, start a business, or be self-employed anywhere in the country."
+      },
+      {
+        "title": "World-class education for your children",
+        "description": "Green Card holders qualify for in-state tuition and have access to U.S. public schools and universities on the same terms as citizens."
+      },
+      {
+        "title": "A path to U.S. citizenship",
+        "description": "After holding a Green Card for five years, investors and their families may become eligible to apply for U.S. citizenship."
+      }
+    ]
+  },
+  "investment": {
+    "title": "A regulated, security-focused investment",
+    "subtitle": "EB-5 is a real capital investment in U.S. job-creating projects — not a donation or a fee. It is reviewed under U.S. securities and immigration law.",
+    "amountsTitle": "Minimum investment amounts",
+    "tea": "$800,000",
+    "teaLabel": "Targeted Employment Area (rural or high-unemployment area)",
+    "nonTea": "$1,050,000",
+    "nonTeaLabel": "Standard area (outside a TEA)",
+    "jobsNote": "Every EB-5 investment must create at least 10 full-time jobs for U.S. workers within the required timeframe — this is verified by USCIS before a Green Card is approved.",
+    "items": [
+      {
+        "title": "Licensed broker-dealer oversight",
+        "description": "InvestAmerica offers securities through Sequence Financial Specialists LLC, a FINRA/SIPC member. Every recommendation goes through a registered representative bound by securities regulations."
+      },
+      {
+        "title": "Rigorous project due diligence",
+        "description": "Each investment opportunity is screened across more than 40 factors — financial projections, sponsor track record, background checks, and immigration risk — before it is offered to investors."
+      },
+      {
+        "title": "Objective, independent advice",
+        "description": "Advisors are compensated to represent your interests, not to push a single project. You review multiple vetted opportunities before deciding."
+      }
+    ]
+  },
+  "process": {
+    "title": "How the process works",
+    "subtitle": "From your first conversation to filing, here's what the journey typically looks like.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Free introductory call",
+        "description": "Tell us about your goals and background. We answer your questions and explain honestly whether EB-5 fits your situation."
+      },
+      {
+        "step": "02",
+        "title": "Review investment options",
+        "description": "InvestAmerica presents vetted, due-diligenced projects that match your investment amount, industry preference, and timeline."
+      },
+      {
+        "step": "03",
+        "title": "Source of funds & subscription",
+        "description": "With guidance from immigration and securities professionals, you document your source of funds and complete subscription paperwork."
+      },
+      {
+        "step": "04",
+        "title": "File your I-526E petition",
+        "description": "Your immigration attorney files the petition with USCIS, backed by the project's business plan and job-creation evidence."
+      },
+      {
+        "step": "05",
+        "title": "Conditional and then permanent residency",
+        "description": "Once approved, you and your family obtain conditional Green Cards, followed by permanent residency after the investment's job-creation requirements are confirmed."
+      }
+    ]
+  },
+  "trust": {
+    "title": "Why go through InvestAmerica",
+    "subtitle": "A specialized, securities-regulated platform built specifically for EB-5 investors.",
+    "points": [
+      "Team of licensed registered representatives with deep EB-5 and private placement experience",
+      "Diverse platform of direct investment opportunities across real estate, hospitality and infrastructure",
+      "Consistent performance through a historically volatile EB-5 regulatory landscape",
+      "Advice aligned with your best interests, not driven by any single project's sales targets"
+    ]
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "subtitle": "Can't find your answer? Ask our chat assistant in the corner, or talk to an advisor directly.",
+    "items": [
+      {
+        "q": "What is the EB-5 Immigrant Investor Program?",
+        "a": "EB-5 is a U.S. immigration category created by Congress that grants permanent residency (a Green Card) to foreign investors who make a qualifying investment in a U.S. business that creates at least 10 full-time jobs for U.S. workers."
+      },
+      {
+        "q": "How much do I need to invest?",
+        "a": "The minimum is $800,000 if the project is located in a Targeted Employment Area (a rural or high-unemployment area), or $1,050,000 for projects outside a TEA. Most EB-5 regional center projects are structured to qualify at the $800,000 level."
+      },
+      {
+        "q": "Does the investment cover my spouse and children?",
+        "a": "Yes. A single qualifying investment and petition can include your spouse and any unmarried children under 21 at the time of filing."
+      },
+      {
+        "q": "Is my investment guaranteed?",
+        "a": "No. Like any securities investment, EB-5 capital is at risk, including possible loss of principal, and there is no guarantee of investment return or immigration approval. That is exactly why due diligence and working with a licensed broker-dealer matters."
+      },
+      {
+        "q": "How long does the process take?",
+        "a": "Timelines vary with USCIS processing volumes and your country of birth, but investors typically see conditional permanent residency within roughly 2 to 4 years of filing, with some cases faster or slower depending on visa category backlogs."
+      },
+      {
+        "q": "Do I need to live in the U.S. to invest?",
+        "a": "No. You can begin the EB-5 process, including making the investment and filing your petition, while living outside the United States. Physical presence generally becomes relevant once you enter on your immigrant visa or adjust status."
+      },
+      {
+        "q": "What is a Targeted Employment Area (TEA)?",
+        "a": "A TEA is a rural area or an area with unemployment at least 150% of the national average. Projects located in a TEA qualify for the lower $800,000 investment threshold."
+      },
+      {
+        "q": "What does InvestAmerica actually do for me?",
+        "a": "InvestAmerica is a licensed broker-dealer platform (through Sequence Financial Specialists LLC, FINRA/SIPC member) that vets EB-5 projects, provides objective investment guidance, and works alongside your immigration attorney throughout the process. This site refers interested investors to their team for a free, no-obligation consultation."
+      }
+    ]
+  },
+  "leadForm": {
+    "title": "Request your free consultation",
+    "subtitle": "Share a few details and a licensed EB-5 advisor from InvestAmerica will reach out — no cost, no obligation.",
+    "name": "Full name",
+    "email": "Email address",
+    "phone": "Phone (with country code)",
+    "country": "Country of residence",
+    "investmentRange": "Available investment capital",
+    "investmentRangePlaceholder": "Select a range",
+    "rangeOptions": [
+      "Under $800,000",
+      "$800,000 – $1,050,000",
+      "$1,050,000 – $2,000,000",
+      "Over $2,000,000",
+      "Just exploring options"
+    ],
+    "message": "Anything else you'd like us to know? (optional)",
+    "consent": "I agree to be contacted by InvestAmerica and its referral partner about EB-5 investment opportunities. I understand this is not legal or investment advice.",
+    "submit": "Request consultation",
+    "submitting": "Sending…",
+    "success": "Thank you! Your request has been sent. An advisor will contact you within 1–2 business days.",
+    "error": "Something went wrong sending your request. Please try again or email us directly."
+  },
+  "footer": {
+    "about": "EB5 Pathway is an independent informational site that helps prospective investors understand the EB-5 Immigrant Investor Program and connects them with InvestAmerica, a licensed EB-5 broker-dealer platform, for a free consultation.",
+    "disclaimer": "This website does not provide legal, tax or investment advice and is not a broker-dealer or investment advisor. Securities, when offered, are offered through Sequence Financial Specialists LLC, member FINRA/SIPC, dba InvestAmerica. All investments involve risk, including possible loss of principal. Immigration outcomes are determined solely by U.S. Citizenship and Immigration Services (USCIS) and are not guaranteed.",
+    "rights": "All rights reserved.",
+    "quickLinks": "Quick links",
+    "partner": "Referral partner",
+    "brokerCheck": "Check the broker-dealer's record on FINRA BrokerCheck"
+  },
+  "chat": {
+    "bubbleLabel": "Chat with us",
+    "title": "EB-5 Assistant",
+    "subtitle": "Ask a question or connect with a live advisor",
+    "placeholder": "Type your question…",
+    "send": "Send",
+    "whatsapp": "Chat with an advisor on WhatsApp",
+    "disclaimer": "Automated answers are for general information only and are not legal or investment advice.",
+    "greeting": "Hi! I can answer general questions about the EB-5 program and InvestAmerica. What would you like to know?",
+    "errorMessage": "Sorry, I couldn't process that right now. Please try again or reach a live advisor on WhatsApp."
+  }
+}
