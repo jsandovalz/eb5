@@ -34,23 +34,9 @@ export default function Footer() {
 
           <div>
             <h4 className="text-sm font-semibold uppercase tracking-wide text-white/50">
-              {t("partner")}
+              {t("howItWorksTitle")}
             </h4>
-            <ul className="mt-4 space-y-2 text-sm">
-              <li>{siteConfig.partner.name}</li>
-              <li>{siteConfig.partner.phone}</li>
-              <li>{siteConfig.partner.email}</li>
-              <li>
-                <a
-                  href={siteConfig.partner.finraBrokerCheck}
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                  className="underline underline-offset-2 hover:text-white"
-                >
-                  {t("brokerCheck")}
-                </a>
-              </li>
-            </ul>
+            <p className="mt-4 text-sm leading-relaxed">{t("howItWorksBody")}</p>
           </div>
         </div>
 

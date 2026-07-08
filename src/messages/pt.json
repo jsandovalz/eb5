@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "EB5 Pathway | Green Card dos EUA Através de Investimento (Visto EB-5)",
-    "description": "Descubra como o Programa de Investidores Imigrantes EB-5 pode conceder a você e sua família o Green Card dos Estados Unidos. Consulta gratuita com um consultor EB-5 licenciado da InvestAmerica."
+    "description": "Descubra como o Programa de Investidores Imigrantes EB-5 pode conceder a você e sua família o Green Card dos Estados Unidos. Orientação gratuita e sem compromisso de um recurso informativo independente sobre o EB-5."
   },
   "nav": {
     "benefits": "Benefícios",
@@ -15,11 +15,11 @@
     "eyebrow": "Programa de Investidores Imigrantes EB-5",
     "title": "O Green Card para você e sua família, através de um investimento seguro",
     "highlight": "Green Card",
-    "subtitle": "Conectamos investidores qualificados à InvestAmerica, uma corretora EB-5 licenciada com um histórico sólido de due diligence e de aprovação de projetos relatado por seus clientes. Receba orientação honesta e sem compromisso sobre se o EB-5 é adequado para você.",
+    "subtitle": "Este é um recurso educativo independente — não vendemos valores mobiliários e não somos uma corretora. Ajudamos você a entender se o EB-5 se encaixa nos seus objetivos e explicamos exatamente como o programa funciona. Só se você realmente tiver interesse é que apresentamos você a um parceiro de investimento licenciado.",
     "ctaPrimary": "Falar com um Consultor",
     "ctaSecondary": "Ver Como Funciona",
     "stat1Value": "US$ 800K+",
-    "stat1Label": "Investimento mínimo qualificado (TEA)",
+    "stat1Label": "Investimento mínimo — estruturado para ser devolvido a você ao final do período de investimento",
     "stat2Value": "10",
     "stat2Label": "Empregos nos EUA que seu investimento deve criar",
     "stat3Value": "1",
@@ -59,8 +59,8 @@
     "jobsNote": "Todo investimento EB-5 deve criar pelo menos 10 empregos em tempo integral para trabalhadores nos EUA dentro do prazo exigido — isso é verificado pelo USCIS antes da aprovação do Green Card.",
     "items": [
       {
-        "title": "Supervisão de corretora licenciada",
-        "description": "A InvestAmerica oferece valores mobiliários através da Sequence Financial Specialists LLC, membro da FINRA/SIPC. Cada recomendação passa por um representante registrado sujeito à regulamentação de valores mobiliários."
+        "title": "Supervisão de investimento regulada",
+        "description": "Assim que você decidir avançar, cada recomendação é conduzida por uma corretora licenciada, sujeita à regulamentação de valores mobiliários dos EUA — nunca por um promotor sem licença."
       },
       {
         "title": "Due diligence rigorosa dos projetos",
@@ -70,7 +70,9 @@
         "title": "Aconselhamento objetivo e independente",
         "description": "Os consultores são remunerados para representar seus interesses, não para promover um único projeto. Você analisa várias oportunidades avaliadas antes de decidir."
       }
-    ]
+    ],
+    "returnNoteLabel": "O que acontece com o seu capital",
+    "returnNote": "Diferente de uma taxa de programa ou uma doação, seus recursos do EB-5 são um investimento de capital real em um negócio americano gerador de empregos. Eles são estruturados para serem devolvidos a você quando o período de investimento exigido (normalmente de 5 a 7 anos) terminar e os requisitos de criação de empregos forem confirmados — embora, como em qualquer investimento, o principal esteja em risco e o retorno nunca seja garantido."
   },
   "process": {
     "title": "Como funciona o processo",
@@ -84,7 +86,7 @@
       {
         "step": "02",
         "title": "Revisão das opções de investimento",
-        "description": "A InvestAmerica apresenta projetos avaliados e com due diligence que correspondem ao seu valor de investimento, setor de interesse e prazos."
+        "description": "Apresentamos opções de investimento avaliadas e com due diligence que correspondem ao seu valor, setor de interesse e prazos."
       },
       {
         "step": "03",
@@ -104,13 +106,19 @@
     ]
   },
   "trust": {
-    "title": "Por que fazer isso através da InvestAmerica",
-    "subtitle": "Uma plataforma especializada e regulada por valores mobiliários, criada especificamente para investidores EB-5.",
+    "title": "Um site informativo — não somos uma corretora",
+    "subtitle": "Existimos para ajudar você a entender o EB-5 com clareza. Se — e somente se — for adequado para você, você será apresentado a um parceiro licenciado e regulado.",
     "points": [
-      "Equipe de representantes registrados e licenciados com ampla experiência em EB-5 e colocações privadas",
-      "Plataforma diversificada de oportunidades de investimento direto em imóveis, hotelaria e infraestrutura",
-      "Desempenho consistente em um cenário regulatório EB-5 historicamente volátil",
-      "Aconselhamento alinhado com os seus melhores interesses, não impulsionado pelas metas de vendas de um único projeto"
+      "Só encaminhamos você a empresas com representantes registrados e licenciados, com ampla experiência em EB-5 e colocações privadas",
+      "Qualquer parceiro em nossa rede oferece uma plataforma diversificada de oportunidades de investimento direto em imóveis, hotelaria e infraestrutura",
+      "Priorizamos parceiros com desempenho consistente em um cenário regulatório EB-5 historicamente volátil",
+      "Cada apresentação é feita porque se encaixa nos seus objetivos — nunca por uma comissão de indicação ou meta de vendas"
+    ],
+    "panelTitle": "O que acontece depois que você entra em contato",
+    "panelSteps": [
+      "Ouvimos seus objetivos e respondemos suas perguntas — sem pressão, sem venda forçada.",
+      "Explicamos exatamente como o EB-5 funciona, incluindo os riscos reais e o prazo realista.",
+      "Se realmente for adequado para você, apresentamos você — sem nenhum custo — a um parceiro de investimento licenciado e regulado para sua consulta formal."
     ]
   },
   "faq": {
@@ -131,7 +139,7 @@
       },
       {
         "q": "Meu investimento é garantido?",
-        "a": "Não. Como qualquer investimento em valores mobiliários, o capital do EB-5 está em risco, incluindo possível perda do principal, e não há garantia de retorno do investimento nem de aprovação da imigração. É exatamente por isso que a due diligence e trabalhar com uma corretora licenciada são tão importantes."
+        "a": "Não. Como qualquer investimento em valores mobiliários, o capital do EB-5 está em risco, incluindo possível perda do principal. Dito isso, os investimentos EB-5 são estruturados para que seu capital seja devolvido quando o período de investimento exigido terminar e os requisitos de criação de empregos forem confirmados — mas nem o retorno do investimento nem a aprovação da imigração são garantidos. É exatamente por isso que a due diligence e trabalhar com uma corretora licenciada são tão importantes."
       },
       {
         "q": "Quanto tempo leva o processo?",
@@ -146,17 +154,17 @@
         "a": "Um TEA é uma área rural ou uma área com desemprego de pelo menos 150% da média nacional. Projetos localizados em um TEA se qualificam para o limite de investimento mais baixo de US$ 800.000."
       },
       {
-        "q": "O que a InvestAmerica realmente faz por mim?",
-        "a": "A InvestAmerica é uma plataforma de corretora licenciada (através da Sequence Financial Specialists LLC, membro da FINRA/SIPC) que avalia projetos EB-5, oferece orientação de investimento objetiva e trabalha junto ao seu advogado de imigração durante todo o processo. Este site encaminha investidores interessados à equipe deles para uma consulta gratuita e sem compromisso."
+        "q": "Com quem eu realmente vou trabalhar, e quando vou descobrir?",
+        "a": "Somos um recurso educativo independente, não uma corretora. Depois de conversar com você, responder suas perguntas e confirmar que o EB-5 realmente se encaixa nos seus objetivos, apresentamos você — sem custo — a um parceiro de investimento licenciado para sua consulta formal. Sempre diremos exatamente quem é, antes de qualquer apresentação acontecer."
       }
     ]
   },
   "leadForm": {
     "title": "Solicite sua consulta gratuita",
-    "subtitle": "Compartilhe alguns dados e um consultor EB-5 licenciado da InvestAmerica entrará em contato — sem custo, sem compromisso.",
+    "subtitle": "Compartilhe alguns dados e nossa equipe entrará em contato para explicar como o EB-5 funciona — sem custo, sem compromisso, sem pressão de venda.",
     "name": "Nome completo",
     "email": "Endereço de e-mail",
-    "phone": "Telefone (com código do país)",
+    "phone": "Número do WhatsApp Telefone (com código do país)",
     "country": "País de residência",
     "investmentRange": "Capital de investimento disponível",
     "investmentRangePlaceholder": "Selecione uma faixa",
@@ -168,19 +176,19 @@
       "Só estou explorando opções"
     ],
     "message": "Algo mais que gostaria de nos contar? (opcional)",
-    "consent": "Concordo em ser contatado pela InvestAmerica e seu parceiro de indicação sobre oportunidades de investimento EB-5. Entendo que isso não é aconselhamento jurídico nem de investimento.",
+    "consent": "Concordo em ser contatado sobre oportunidades de investimento EB-5 e entendo que posso ser apresentado posteriormente a um parceiro de investimento licenciado. Entendo que isso não é aconselhamento jurídico nem de investimento.",
     "submit": "Solicitar consulta",
     "submitting": "Enviando…",
-    "success": "Obrigado! Sua solicitação foi enviada. Um consultor entrará em contato em até 1–2 dias úteis.",
+    "success": "Obrigado! Sua solicitação foi enviada. Nossa equipe entrará em contato em até 1–2 dias úteis para responder suas perguntas e explicar como o programa funciona.",
     "error": "Ocorreu um erro ao enviar sua solicitação. Tente novamente ou envie um e-mail diretamente."
   },
   "footer": {
-    "about": "A EB5 Pathway é um site informativo independente que ajuda futuros investidores a entender o Programa de Investidores Imigrantes EB-5 e os conecta à InvestAmerica, uma plataforma de corretora EB-5 licenciada, para uma consulta gratuita.",
-    "disclaimer": "Este site não oferece aconselhamento jurídico, tributário ou de investimento, e não é uma corretora nem um consultor de investimentos. Valores mobiliários, quando oferecidos, são oferecidos através da Sequence Financial Specialists LLC, membro da FINRA/SIPC, dba InvestAmerica. Todo investimento envolve risco, incluindo possível perda do capital. Os resultados de imigração são determinados exclusivamente pelo Serviço de Cidadania e Imigração dos EUA (USCIS) e não são garantidos.",
+    "about": "A EB5 Pathway é um recurso educativo independente sobre o Programa de Investidores Imigrantes EB-5. Não somos uma corretora nem um consultor de investimentos. Depois de entender seus objetivos, podemos apresentar investidores qualificados e interessados a um parceiro de investimento licenciado, sem custo para você.",
+    "disclaimer": "Este site não oferece aconselhamento jurídico, tributário ou de investimento, e não é uma corretora nem um consultor de investimentos. Caso você seja apresentado a um parceiro de investimento, os valores mobiliários aplicáveis serão oferecidos somente através de uma corretora devidamente licenciada e membro da FINRA/SIPC. Todo investimento envolve risco, incluindo possível perda do capital. Os resultados de imigração são determinados exclusivamente pelo Serviço de Cidadania e Imigração dos EUA (USCIS) e não são garantidos.",
     "rights": "Todos os direitos reservados.",
     "quickLinks": "Links rápidos",
-    "partner": "Parceiro de indicação",
-    "brokerCheck": "Consulte o histórico da corretora no FINRA BrokerCheck"
+    "howItWorksTitle": "Como funcionam as indicações",
+    "howItWorksBody": "Nunca compartilhamos seus dados com uma empresa parceira até que você nos diga que deseja avançar."
   },
   "chat": {
     "bubbleLabel": "Converse conosco",
@@ -190,7 +198,7 @@
     "send": "Enviar",
     "whatsapp": "Converse com um consultor pelo WhatsApp",
     "disclaimer": "As respostas automáticas são apenas informações gerais e não constituem aconselhamento jurídico ou de investimento.",
-    "greeting": "Olá! Posso responder perguntas gerais sobre o programa EB-5 e a InvestAmerica. O que você gostaria de saber?",
+    "greeting": "Olá! Posso responder perguntas gerais sobre o programa EB-5 e como este site funciona. O que você gostaria de saber?",
     "errorMessage": "Desculpe, não consegui processar sua mensagem agora. Tente novamente ou fale com um consultor ao vivo pelo WhatsApp."
   }
 }

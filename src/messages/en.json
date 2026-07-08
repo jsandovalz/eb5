@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "EB5 Pathway | U.S. Green Card Through Investment (EB-5 Visa)",
-    "description": "Learn how the EB-5 Immigrant Investor Program can get you and your family a U.S. Green Card. Free consultation with a licensed EB-5 advisor at InvestAmerica."
+    "description": "Learn how the EB-5 Immigrant Investor Program can get you and your family a U.S. Green Card. Free, no-obligation guidance from an independent EB-5 information resource."
   },
   "nav": {
     "benefits": "Benefits",
@@ -15,11 +15,11 @@
     "eyebrow": "EB-5 Immigrant Investor Program",
     "title": "A U.S. Green Card for you and your family, through a secure investment",
     "highlight": "Green Card",
-    "subtitle": "We connect qualified investors with InvestAmerica, a licensed EB-5 broker-dealer with a track record of due diligence and a strong project approval history reported by its clients. Get honest, no-obligation guidance on whether EB-5 is right for you.",
+    "subtitle": "This is an independent, educational resource — we don't sell securities and we're not a broker-dealer. We'll help you understand whether EB-5 fits your goals and walk you through exactly how the program works. Only if you're genuinely interested do we introduce you to a licensed investment partner.",
     "ctaPrimary": "Talk to an Advisor",
     "ctaSecondary": "See How It Works",
     "stat1Value": "$800K+",
-    "stat1Label": "Minimum qualifying investment (TEA)",
+    "stat1Label": "Minimum investment — structured to be returned to you after the required investment period",
     "stat2Value": "10",
     "stat2Label": "U.S. jobs your investment must create",
     "stat3Value": "1",
@@ -59,8 +59,8 @@
     "jobsNote": "Every EB-5 investment must create at least 10 full-time jobs for U.S. workers within the required timeframe — this is verified by USCIS before a Green Card is approved.",
     "items": [
       {
-        "title": "Licensed broker-dealer oversight",
-        "description": "InvestAmerica offers securities through Sequence Financial Specialists LLC, a FINRA/SIPC member. Every recommendation goes through a registered representative bound by securities regulations."
+        "title": "Regulated investment oversight",
+        "description": "Once you decide to move forward, every recommendation is handled by a licensed broker-dealer bound by U.S. securities regulations — never an unlicensed promoter."
       },
       {
         "title": "Rigorous project due diligence",
@@ -70,7 +70,9 @@
         "title": "Objective, independent advice",
         "description": "Advisors are compensated to represent your interests, not to push a single project. You review multiple vetted opportunities before deciding."
       }
-    ]
+    ],
+    "returnNoteLabel": "What happens to your capital",
+    "returnNote": "Unlike a program fee or a donation, your EB-5 funds are a real capital investment in a job-creating U.S. business. They're structured to be returned to you once the required investment period (typically 5–7 years) concludes and the job-creation requirements are confirmed — though, as with any investment, principal is at risk and return is never guaranteed."
   },
   "process": {
     "title": "How the process works",
@@ -84,7 +86,7 @@
       {
         "step": "02",
         "title": "Review investment options",
-        "description": "InvestAmerica presents vetted, due-diligenced projects that match your investment amount, industry preference, and timeline."
+        "description": "We present vetted, due-diligenced investment options that match your amount, industry preference, and timeline."
       },
       {
         "step": "03",
@@ -104,13 +106,19 @@
     ]
   },
   "trust": {
-    "title": "Why go through InvestAmerica",
-    "subtitle": "A specialized, securities-regulated platform built specifically for EB-5 investors.",
+    "title": "An informational site — not a broker-dealer",
+    "subtitle": "We exist to help you understand EB-5 clearly. If — and only if — it's a fit, you're introduced to a licensed, regulated partner.",
     "points": [
-      "Team of licensed registered representatives with deep EB-5 and private placement experience",
-      "Diverse platform of direct investment opportunities across real estate, hospitality and infrastructure",
-      "Consistent performance through a historically volatile EB-5 regulatory landscape",
-      "Advice aligned with your best interests, not driven by any single project's sales targets"
+      "We only refer you to firms staffed by licensed, registered representatives with deep EB-5 and private-placement experience",
+      "Any partner in our network offers a diverse platform of direct investment opportunities across real estate, hospitality and infrastructure",
+      "We favor partners with a consistent track record through a historically volatile EB-5 regulatory landscape",
+      "Every introduction is made because it fits your goals — never because of a referral fee or sales target"
+    ],
+    "panelTitle": "What happens after you reach out",
+    "panelSteps": [
+      "We listen to your goals and answer your questions — no pitch, no pressure.",
+      "We walk you through exactly how EB-5 works, including the real risks and realistic timeline.",
+      "If it's genuinely a fit, we introduce you — at no cost to you — to a licensed, regulated investment partner for your formal consultation."
     ]
   },
   "faq": {
@@ -131,7 +139,7 @@
       },
       {
         "q": "Is my investment guaranteed?",
-        "a": "No. Like any securities investment, EB-5 capital is at risk, including possible loss of principal, and there is no guarantee of investment return or immigration approval. That is exactly why due diligence and working with a licensed broker-dealer matters."
+        "a": "No. Like any securities investment, EB-5 capital is at risk, including possible loss of principal. That said, EB-5 investments are structured so your capital is intended to be returned once the required investment period concludes and the job-creation requirements are confirmed — but neither investment return nor immigration approval is ever guaranteed. This is exactly why due diligence and working with a licensed broker-dealer matters."
       },
       {
         "q": "How long does the process take?",
@@ -146,17 +154,17 @@
         "a": "A TEA is a rural area or an area with unemployment at least 150% of the national average. Projects located in a TEA qualify for the lower $800,000 investment threshold."
       },
       {
-        "q": "What does InvestAmerica actually do for me?",
-        "a": "InvestAmerica is a licensed broker-dealer platform (through Sequence Financial Specialists LLC, FINRA/SIPC member) that vets EB-5 projects, provides objective investment guidance, and works alongside your immigration attorney throughout the process. This site refers interested investors to their team for a free, no-obligation consultation."
+        "q": "Who will I actually work with, and when do I find out?",
+        "a": "We're an independent educational resource, not a broker-dealer ourselves. After we've spoken with you, answered your questions, and confirmed EB-5 genuinely fits your goals, we introduce you — at no cost — to a licensed investment partner for your formal consultation. We'll always tell you exactly who that is before any introduction happens."
       }
     ]
   },
   "leadForm": {
     "title": "Request your free consultation",
-    "subtitle": "Share a few details and a licensed EB-5 advisor from InvestAmerica will reach out — no cost, no obligation.",
+    "subtitle": "Share a few details and our team will reach out to walk you through how EB-5 works — no cost, no obligation, no sales pitch.",
     "name": "Full name",
     "email": "Email address",
-    "phone": "Phone (with country code)",
+    "phone": "WhatsApp Number Phone (with country code)",
     "country": "Country of residence",
     "investmentRange": "Available investment capital",
     "investmentRangePlaceholder": "Select a range",
@@ -168,19 +176,19 @@
       "Just exploring options"
     ],
     "message": "Anything else you'd like us to know? (optional)",
-    "consent": "I agree to be contacted by InvestAmerica and its referral partner about EB-5 investment opportunities. I understand this is not legal or investment advice.",
+    "consent": "I agree to be contacted about EB-5 investment opportunities and understand I may later be introduced to a licensed investment partner. I understand this is not legal or investment advice.",
     "submit": "Request consultation",
     "submitting": "Sending…",
-    "success": "Thank you! Your request has been sent. An advisor will contact you within 1–2 business days.",
+    "success": "Thank you! Your request has been sent. Our team will reach out within 1–2 business days to answer your questions and explain how the program works.",
     "error": "Something went wrong sending your request. Please try again or email us directly."
   },
   "footer": {
-    "about": "EB5 Pathway is an independent informational site that helps prospective investors understand the EB-5 Immigrant Investor Program and connects them with InvestAmerica, a licensed EB-5 broker-dealer platform, for a free consultation.",
-    "disclaimer": "This website does not provide legal, tax or investment advice and is not a broker-dealer or investment advisor. Securities, when offered, are offered through Sequence Financial Specialists LLC, member FINRA/SIPC, dba InvestAmerica. All investments involve risk, including possible loss of principal. Immigration outcomes are determined solely by U.S. Citizenship and Immigration Services (USCIS) and are not guaranteed.",
+    "about": "EB5 Pathway is an independent, educational resource about the EB-5 Immigrant Investor Program. We are not a broker-dealer or investment advisor. After understanding your goals, we may introduce qualified, interested investors to a licensed investment partner at no cost to you.",
+    "disclaimer": "This website does not provide legal, tax or investment advice and is not a broker-dealer or investment advisor. If you are introduced to an investment partner, applicable securities will be offered only through a properly licensed, FINRA/SIPC-member broker-dealer. All investments involve risk, including possible loss of principal. Immigration outcomes are determined solely by U.S. Citizenship and Immigration Services (USCIS) and are not guaranteed.",
     "rights": "All rights reserved.",
     "quickLinks": "Quick links",
-    "partner": "Referral partner",
-    "brokerCheck": "Check the broker-dealer's record on FINRA BrokerCheck"
+    "howItWorksTitle": "How referrals work",
+    "howItWorksBody": "We never share your details with a partner firm until you've told us you want to move forward."
   },
   "chat": {
     "bubbleLabel": "Chat with us",
@@ -190,7 +198,7 @@
     "send": "Send",
     "whatsapp": "Chat with an advisor on WhatsApp",
     "disclaimer": "Automated answers are for general information only and are not legal or investment advice.",
-    "greeting": "Hi! I can answer general questions about the EB-5 program and InvestAmerica. What would you like to know?",
+    "greeting": "Hi! I can answer general questions about the EB-5 program and how this site works. What would you like to know?",
     "errorMessage": "Sorry, I couldn't process that right now. Please try again or reach a live advisor on WhatsApp."
   }
 }

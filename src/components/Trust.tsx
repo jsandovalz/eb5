@@ -1,9 +1,9 @@
 import { useTranslations } from "next-intl";
-import { siteConfig } from "@/lib/config";
 
 export default function Trust() {
   const t = useTranslations("trust");
   const points = t.raw("points") as string[];
+  const panelSteps = t.raw("panelSteps") as string[];
 
   return (
     <section className="bg-white py-20">
@@ -26,21 +26,17 @@ export default function Trust() {
             </ul>
           </div>
           <div className="rounded-2xl border border-navy/10 bg-navy p-8 text-white">
-            <p className="text-sm uppercase tracking-wide text-gold-light">{siteConfig.partner.name}</p>
-            <p className="mt-3 text-sm leading-relaxed text-white/70">{siteConfig.partner.legalName}</p>
-            <div className="mt-6 space-y-2 text-sm text-white/80">
-              <p>{siteConfig.partner.address}</p>
-              <p>{siteConfig.partner.phone}</p>
-              <p>{siteConfig.partner.email}</p>
-            </div>
-            <a
-              href={siteConfig.partner.finraBrokerCheck}
-              target="_blank"
-              rel="noopener noreferrer nofollow"
-              className="mt-6 inline-block text-xs font-medium text-gold-light underline underline-offset-2"
-            >
-              FINRA BrokerCheck →
-            </a>
+            <p className="text-sm uppercase tracking-wide text-gold-light">{t("panelTitle")}</p>
+            <ol className="mt-5 space-y-5">
+              {panelSteps.map((step, i) => (
+                <li key={step} className="flex gap-3">
+                  <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-white/10 text-xs font-semibold text-gold-light">
+                    {i + 1}
+                  </span>
+                  <span className="text-sm leading-relaxed text-white/80">{step}</span>
+                </li>
+              ))}
+            </ol>
           </div>
         </div>
       </div>

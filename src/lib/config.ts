@@ -11,23 +11,31 @@ export const siteConfig = {
     pt: "Seu guia de confiança para a residência nos EUA através de investimento",
     zh: "您通往美国投资移民之路的可信向导",
   },
-  url: "https://www.americaInvestorVisa.com", // TODO: update once the domain is live
-  // Referral partner — the licensed broker-dealer this site refers leads to.
+  url: "https://www.eb5pathway.com", // TODO: update once the domain is live
+
+  // Referral partner — the licensed broker-dealer that interested leads are
+  // eventually introduced to, AFTER you've spoken with them and explained
+  // how EB-5 works. Intentionally NOT shown anywhere on the public site or
+  // in the chatbot's default answers (see src/lib/knowledge-base.ts) — this
+  // data exists purely so you have it on hand for your own follow-up.
   partner: {
     name: "InvestAmerica",
     legalName:
       "InvestAmerica offers securities through Sequence Financial Specialists LLC, member FINRA/SIPC, dba InvestAmerica. InvestAmerica LLC is a subsidiary of Sequence Holdings LLC.",
-    website: "",
-    phone: "",
-    email: "",
-    address: "",
-    finraBrokerCheck: "",
+    website: "https://investamericap.com",
+    phone: "+1 843 853 8222",
+    email: "info@investamericap.com",
+    address: "181 E Evans St, Suite C-1, Florence, SC 29506, USA",
+    finraBrokerCheck: "https://brokercheck.finra.org/firm/summary/132915",
   },
+
   contact: {
-    // TODO: replace with the referral desk's own contact details.
+    // Where lead-form notification emails are sent.
     email: "jsandovalz@gmail.com",
-    // WhatsApp number in international format, no symbols (used for wa.me links).
-    whatsappNumber: "18438538222",
+    // TODO: set this to YOUR OWN WhatsApp number (international format, no
+    // symbols, e.g. "15551234567") so visitors reach you first — not the
+    // partner directly. Leave blank to hide the WhatsApp button entirely.
+    whatsappNumber: "",
   },
   social: {
     linkedin: "",

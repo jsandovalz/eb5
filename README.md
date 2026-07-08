@@ -1,9 +1,16 @@
 # EB5 Pathway — EB-5 Referral Landing Page
 
 Multilingual (EN / ES / PT / ZH) landing page that explains the EB-5 Immigrant
-Investor Program and captures leads for referral to **InvestAmerica**
-(https://investamericap.com). Built with Next.js App Router, TypeScript,
-Tailwind CSS and next-intl. Deploys to Vercel.
+Investor Program and captures leads. The site presents itself as an
+independent, educational resource — it does not name any specific
+broker-dealer partner. The idea is: visitors learn about EB-5, submit the
+contact form or chat with you, you personally explain how the program works,
+and only afterwards, if they're genuinely interested, do you introduce them
+to your licensed referral partner (currently InvestAmerica,
+https://investamericap.com — kept in `src/lib/config.ts` and
+`src/lib/knowledge-base.ts` for your own reference, but intentionally not
+shown anywhere on the public site). Built with Next.js App Router,
+TypeScript, Tailwind CSS and next-intl. Deploys to Vercel.
 
 ## Features
 
@@ -13,7 +20,9 @@ Tailwind CSS and next-intl. Deploys to Vercel.
   robots.txt, and JSON-LD structured data.
 - **FAQ chatbot** powered by the Claude API, grounded on a fixed knowledge
   base (`src/lib/knowledge-base.ts`) so it only answers on-topic questions.
-- **"Talk to a human" button** that opens WhatsApp with your advisor number.
+- **"Talk to a human" button** that opens WhatsApp with *your* number (not
+  the partner's) — visitors reach you first. Hidden automatically until you
+  set a number.
 - **Lead capture form** that emails you (via Resend) whenever someone submits
   their details.
 
@@ -48,11 +57,17 @@ before going live.
 Everything brand/contact-specific lives in **`src/lib/config.ts`**:
 
 - `brandName` and `url` — replace with your real site name and domain.
-- `contact.whatsappNumber` — the number the chat widget's WhatsApp button
-  messages (international format, digits only).
-- `contact.email` — fallback lead-notification address.
-- `partner.*` — InvestAmerica's public contact details (already filled in
-  from investamericap.com; update if anything changes on their end).
+- `contact.whatsappNumber` — **required to enable the WhatsApp button.** Set
+  this to your own number (international format, digits only, e.g.
+  `"15551234567"`). It starts blank on purpose, and the button stays hidden
+  until you fill it in — visitors should reach you, not the partner,
+  directly.
+- `contact.email` — where lead-form notification emails are sent.
+- `partner.*` — your referral partner's contact details (InvestAmerica's are
+  filled in from investamericap.com). This is for your own reference only —
+  it isn't rendered anywhere on the site or volunteered by the chatbot; see
+  the note in `src/lib/knowledge-base.ts` if you want to change that
+  behavior.
 
 Also review the legal disclaimers in each `src/messages/<locale>.json`
 (`footer.disclaimer`, `hero.disclaimer`) with your compliance/legal advisor
@@ -99,6 +114,7 @@ src/
 This site is a referral/informational funnel, not a broker-dealer or
 investment adviser. It should not present itself as offering legal,
 tax or investment advice. Securities-related language throughout the
-content reflects that InvestAmerica offers securities through Sequence
-Financial Specialists LLC (FINRA/SIPC member) — keep this attribution
-intact, and have your compliance advisor review all copy before launch.
+content reflects that your referral partner offers securities through a
+FINRA/SIPC-member broker-dealer — have your compliance advisor review all
+copy, and the informational-site-first / reveal-partner-later flow itself,
+before launch.

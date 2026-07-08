@@ -32,6 +32,13 @@ export default function InvestmentSecurity() {
               </div>
             </div>
             <p className="mt-6 text-sm leading-relaxed text-white/60">{t("jobsNote")}</p>
+
+            <div className="mt-6 rounded-xl border border-gold/30 bg-gold/10 p-4">
+              <p className="text-xs font-semibold uppercase tracking-wide text-gold-light">
+                {t("returnNoteLabel")}
+              </p>
+              <p className="mt-2 text-sm leading-relaxed text-white/80">{t("returnNote")}</p>
+            </div>
           </div>
 
           <div className="grid grid-cols-1 gap-4">
