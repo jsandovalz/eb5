@@ -22,20 +22,20 @@ export const siteConfig = {
     name: "InvestAmerica",
     legalName:
       "InvestAmerica offers securities through Sequence Financial Specialists LLC, member FINRA/SIPC, dba InvestAmerica. InvestAmerica LLC is a subsidiary of Sequence Holdings LLC.",
-    website: "https://investamericap.com",
-    phone: "+1 843 853 8222",
-    email: "info@investamericap.com",
+    website: "https://americainvestorvisa.com/",
+    phone: "+1 448 799 8425",
+    email: "information@americainvestorvisa.com",
     address: "181 E Evans St, Suite C-1, Florence, SC 29506, USA",
     finraBrokerCheck: "https://brokercheck.finra.org/firm/summary/132915",
   },
 
   contact: {
     // Where lead-form notification emails are sent.
-    email: "jsandovalz@gmail.com",
+    email: "information@americainvestorvisa.com",
     // TODO: set this to YOUR OWN WhatsApp number (international format, no
     // symbols, e.g. "15551234567") so visitors reach you first — not the
     // partner directly. Leave blank to hide the WhatsApp button entirely.
-    whatsappNumber: "",
+    whatsappNumber: "14487998425",
   },
   social: {
     linkedin: "",
